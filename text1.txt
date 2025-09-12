@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Внесение изменения в master
+=======
+Use one and change branch in main
+>>>>>>> main
